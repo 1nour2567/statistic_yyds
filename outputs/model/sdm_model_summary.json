@@ -1,0 +1,20 @@
+{
+  "model": "Spatial Durbin Model with county and year fixed effects",
+  "n_observations": 747,
+  "n_units": 83,
+  "n_years": 9,
+  "rho": -0.645000000000002,
+  "log_likelihood_without_constant": 1903.2586583638258,
+  "sse": 4.5193621739355025,
+  "sigma2": 0.006995916677918735,
+  "within_r2_transformed": 0.03735506971281943,
+  "df_residual": 646,
+  "dependent_variable": "ln(co2_million_tons)",
+  "x_variables": [
+    "ln_gdp",
+    "ln_pop",
+    "secondary_share",
+    "urbanization",
+    "ln_retail_pc"
+  ]
+}

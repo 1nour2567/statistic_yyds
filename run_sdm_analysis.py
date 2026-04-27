@@ -48,7 +48,7 @@ except ModuleNotFoundError:
     HAVE_MATPLOTLIB = False
     plt = None
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path("/workspace")
 DATA = ROOT / "data_processed"
 OUT = ROOT / "outputs"
 MODEL_DIR = OUT / "model"
