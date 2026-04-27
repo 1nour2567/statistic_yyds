@@ -1,0 +1,21 @@
+{
+  "model": "Spatial Durbin Model with knn5 weights",
+  "n_observations": 747,
+  "n_units": 83,
+  "n_years": 9,
+  "rho": -0.20749999999999938,
+  "log_likelihood_without_constant": 1899.5685836258165,
+  "sse": 4.590811067647397,
+  "sigma2": 0.007106518680568726,
+  "within_r2_transformed": 0.023577510150231018,
+  "df_residual": 646,
+  "dependent_variable": "ln(co2_million_tons)",
+  "x_variables": [
+    "ln_gdp",
+    "ln_pop",
+    "secondary_share",
+    "urbanization",
+    "ln_retail_pc"
+  ],
+  "weight_matrix": "knn5"
+}

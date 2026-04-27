@@ -1,0 +1,21 @@
+{
+  "model": "Spatial Durbin Model with contiguity weights",
+  "n_observations": 747,
+  "n_units": 83,
+  "n_years": 9,
+  "rho": -0.061499999999999264,
+  "log_likelihood_without_constant": 1893.8701180285148,
+  "sse": 4.685046410015226,
+  "sigma2": 0.007252393823552981,
+  "within_r2_transformed": 0.01540972833526899,
+  "df_residual": 646,
+  "dependent_variable": "ln(co2_million_tons)",
+  "x_variables": [
+    "ln_gdp",
+    "ln_pop",
+    "secondary_share",
+    "urbanization",
+    "ln_retail_pc"
+  ],
+  "weight_matrix": "contiguity"
+}
