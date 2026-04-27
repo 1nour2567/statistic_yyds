@@ -1,0 +1,16 @@
+source_name,source_type,official_or_academic,use_in_project,local_file_or_status,url
+County-level monthly CO2 emissions 2013-2021,CO2 emissions,academic peer-reviewed dataset,main dependent variable downloaded,data_raw/figshare_county_monthly_co2_2013_2021_updated_dataset.xlsx,https://doi.org/10.6084/m9.figshare.28208555.v1
+China's county-level monthly CO2 emissions during 2013-2021,method paper,academic peer-reviewed paper,method citation and source explanation,link only,https://www.nature.com/articles/s41597-025-05461-3
+County-level CO2 emissions in China 1997-2017,CO2 emissions,academic peer-reviewed dataset,long-period trend supplement downloaded,data_raw/figshare_county_co2_1997_2017_co2.xlsx,https://doi.org/10.6084/m9.figshare.12887213.v3
+County-level CO2 sequestration in China 2000-2017,carbon sequestration,academic peer-reviewed dataset,carbon sink supplement downloaded,data_raw/figshare_county_co2_sequestration_2000_2017.xlsx,https://doi.org/10.6084/m9.figshare.12887222.v3
+China county-level vector map,boundary vector,NGCC-derived academic archive,spatial weights downloaded,data_raw/figshare_china_county_boundary_vector_map.zip,https://doi.org/10.6084/m9.figshare.13019930.v1
+Fujian Statistical Yearbooks 2014-2022,official statistics,official government statistics,main explanatory variables downloaded as HTML tables,data_raw/fj_stat_yearbook_tables/*.htm,https://tjj.fujian.gov.cn/xxgk/njgb/tjnj/
+CEADs city data,carbon inventory,academic carbon accounts,city-level validation optional,link only,https://www.ceads.net/data/city/
+CEADs provincial sectoral accounting,carbon inventory,academic carbon accounts,province-level validation optional,link only,https://www.ceads.net/data/province/by_sectoral_accounting/
+National carbon market daily trading information,carbon market,official/quasi-official trading information,policy and carbon price background optional,link only,https://www.eco.gov.cn/
+NOAA VIIRS monthly nighttime lights,remote sensing,public remote-sensing dataset,night-light enhancement optional,link only,https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_MONTHLY_V1_VCMSLCFG
+NOAA VIIRS annual nighttime lights,remote sensing,public remote-sensing dataset,night-light enhancement optional,link only,https://developers.google.com/earth-engine/datasets/catalog/NOAA_VIIRS_DNB_ANNUAL_V22
+CLCD China land cover,remote sensing land cover,academic open dataset,land-use enhancement optional,link only,https://zenodo.org/records/5816591
+China County Statistical Yearbook 2021,county official statistics,official NBS publication,possible cross-check but bulk data not freely downloadable from NBS,link only,https://www.stats.gov.cn/zs/tjwh/tjkw/tjzl/202302/t20230215_1908004.html
+CNIPA patent search,patent data,official patent search,green patent variable optional/manual query,link only,https://pss-system.cponline.cnipa.gov.cn/
+CNRDS green patent database,patent data,commercial academic database,green patent variable optional/account required,link only,https://www.cnrds.com/
