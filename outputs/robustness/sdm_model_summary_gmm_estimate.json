@@ -1,0 +1,16 @@
+{
+  "model": "GMM Estimation for Spatial Durbin Model (gmm_estimate)",
+  "n_observations": 747,
+  "n_units": 83,
+  "n_years": 9,
+  "rho": -2.2607322591998145,
+  "sigma2": 0.00596007492182319,
+  "dependent_variable": "ln(co2_million_tons)",
+  "x_variables": [
+    "ln_gdp",
+    "ln_pop",
+    "secondary_share",
+    "urbanization",
+    "ln_retail_pc"
+  ]
+}
